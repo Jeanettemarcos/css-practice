@@ -1,6 +1,16 @@
 body {
-  background-color: lightblue;
+  background-color: lightpink;
 }
-p {
-  color: purple;
+p {font-size:20px;color:blue;
+  color: hotpink;
+font-family: cursive;
+  font-style:oblique;
+  text-decoration: underline;
+}
+div {
+  border:dashed purple 50px;
+  border-radius:50px; 
+  height:100px;
+  width: 200px;
+  margin: 10px;
 }
